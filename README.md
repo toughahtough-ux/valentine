@@ -45,8 +45,8 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
-pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
+valentineName: "shuyu"                    // Your Valentine's name
+pageTitle: "First Ever Month 💝" // Browser tab title
 
 // Floating Background Elements
 floatingEmojis: {
@@ -63,12 +63,12 @@ questions: {
         secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
     },
     second: {
-        text: "How much do you love me?",          // Second question
+        text: "How much do you think I love you?",          // Second question
         startText: "This much!",                   // Text before percentage
         nextBtn: "Next ❤️"                         // Next button text
     },
     third: {
-        text: "Will you be my Valentine...?",      // Final question
+        text: "Will you go on a date with me...?",      // Final question
         yesBtn: "Yes!",                            // Yes button text
         noBtn: "No"                                // No button text
     }
