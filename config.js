@@ -15,7 +15,7 @@ const CONFIG = {
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        bears: ['🐡', '🦐', '🐟', '🐠', '🦑', '🦀', '🦞', '🐬', '🐳', '🦈', '🏖️']    // Cute bear emojis
     },
 
     // Questions and answers
@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Thank you for the past 1 month. Every second I spend with you is so precious and I cherish every message, reel, and video call opportunity. Here's to a lifetime of memories as a couple!",
+        message: "Thank you for the past 1 month. Here's to a lifetime of memories as a couple!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
